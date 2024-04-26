@@ -1,0 +1,11 @@
+Admin Login
+Username - admin
+Email - superuser@amin.com
+Password - admin@123!
+
+user - john
+username - jonnyboy
+name - john
+email - johndoe@gmail.com
+password - johnny123
+phone_number - 123456789
